@@ -67,8 +67,11 @@ section.imagem{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position:  right center;
     background-position-x: 70%;
     background-position-y: 50%;
+    
+    
     
     color: white;
    
